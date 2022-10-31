@@ -1,5 +1,3 @@
-package com.epam.rd.contactbook;
-
 public class Contact {
     protected ContactInfo [] info = new ContactInfo[10];
     protected static String name;
